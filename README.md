@@ -9,7 +9,11 @@ This project focuses on classifying fish images into multiple categories using d
 5) InceptionV3
 6) EfficientNetB0
 
-# **Features**
-Data Pre-processed and Data Augmentation
-Deployed Using Streamlit Application
+# **Steps Followed**
+1) Data Pre-processing
+2) Data Augmentation
+3) Training the Models
+4) Evaluating the Training,Validation and Testing Accuracy
+5) Visualization and Classification Report
+6) Best Model deployed Using Streamlit Application
 
